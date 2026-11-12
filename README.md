@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou Vinícius Reis!!!!</h1>
-<h3 align="center">Apaixonado por ciência e Análises de Dados</h3>
+<h3 align="center">Apaixonado por Análise de Dados & Data Science</h3>
 
 - 🌱Atualmente estou aprendendo **Python e Análise de Dados**
 
-- 💬 Me pergunte sobre **SQl, Google Data Studio, Power BI, Excel e Python**
+- 💬 Me pergunte sobre **Python, Data Science & Analytics**
 
 - 📫 Você me acha através do e-mail **viniciussreis06@gmail.com**
 
