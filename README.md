@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Vinícius Reis!!!!</h1>
+<h1 align="center">Oi, eu sou Vinícius Reis!!!!</h1>
 <h3 align="center">Apaixonado em transformar dados brutos em informações estratégicas.</h3>
 
 - 🌱Atualmente estou aprendendo **Python e Análise de Dados**
